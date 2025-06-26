@@ -87,5 +87,4 @@ export const config = {
   api: {
     bodyParser: false,
   },
-  console.log('✅ Webhook received')
 }
