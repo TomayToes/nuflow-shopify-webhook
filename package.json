@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
-    "start": "vercel start"
+    "start": "vercel dev"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.3"
